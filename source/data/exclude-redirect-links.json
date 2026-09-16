@@ -16,76 +16,8 @@
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business.html"
   },
   {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/access-corporate-tax-information.html",
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/access-corporate-tax-information.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts/requesting-refund-after-dissolution.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts/requesting-refund-after-dissolution.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html",
-    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html",
@@ -160,8 +92,128 @@
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/business-income-tax-reporting/inventory-cost-goods-sold.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/checklist-small-businesses.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/checklist-small-businesses.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency.html",
     "destination": "/bam-cop-2026-baseline/en/revenue-agency.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-address.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-operating-name.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789571973005.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789571973005.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789571991397.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789571991397.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789572019389.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789572019389.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789572109372.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789572109372.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/representative-authorization.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/representative-authorization.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-business-activity.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-business-activity.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789581536672.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789570567145/new-page-1789581536672.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/new-page-1789573197600.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/update-information-cra/new-page-1789573197600.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/bringing-personal-assets-into-your-business.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/bringing-personal-assets-into-your-business.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/amalgamation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/resume-operations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts/requesting-refund-after-dissolution.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/closing-accounts/requesting-refund-after-dissolution.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/opening-locations-branches-divisions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-fiscal-year-end.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/retirement-death.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/registered-ontario.html",
@@ -216,6 +268,34 @@
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/forms-publications/forms/rc278.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/suspend-resume-stop-operations.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/suspend-resume-stop-operations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/comfort-letter.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/comfort-letter.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant/election-restrictive-covenants.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant/election-restrictive-covenants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant/treatment-a-restrictive-covenant.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/selling-a-business/restrictive-covenant/treatment-a-restrictive-covenant.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/change-fiscal-year-end/personal-income-tax-self-employed-individuals.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/change-fiscal-year-end/personal-income-tax-self-employed-individuals.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/starting-a-business.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/starting-a-business.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr.html",
     "destination": "/bam-cop-2026-baseline/fr.html"
   },
@@ -232,76 +312,8 @@
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html"
-  },
-  {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acces-renseignements-fiscaux-societes.html",
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/acces-renseignements-fiscaux-societes.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes/demande-remboursement-apres-dissolution.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes/demande-remboursement-apres-dissolution.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite-structures-entreprise.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite-structures-entreprise.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/proposition-faillite.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/proposition-faillite.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/mise-sous-sequestre.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/mise-sous-sequestre.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/centre-arrivage-regional-insolvabilite-cari.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/centre-arrivage-regional-insolvabilite-cari.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html",
-    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
@@ -376,8 +388,128 @@
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/revenu-petites-entreprises-travailleurs-independants/impot-revenu-entreprises/inventaire-cout-marchandises-vendues.html"
   },
   {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/revenu-petites-entreprises-travailleurs-independants/liste-controle-petites-entreprises.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/revenu-petites-entreprises-travailleurs-independants/liste-controle-petites-entreprises.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/agence-revenu.html",
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-adresse.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-proprietaire-associes-administrateurs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-nom-commercial.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789571973005.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789571973005.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789571991397.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789571991397.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789572019389.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789572019389.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789572109372.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789572109372.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/autorisation-representant.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/autorisation-representant.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-activite-commerciale.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-activite-commerciale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789581536672.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789570567145/nouvelle-page-1789581536672.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/vendre-entreprise.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/vendre-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/nouvelle-page-1789403767289.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/nouvelle-page-1789403767289.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-statut-juridique.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fusion.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/reprendre-exploitation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes/demande-remboursement-apres-dissolution.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/fermeture-comptes/demande-remboursement-apres-dissolution.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/ouvrir-autres-emplacements-succursales-divisions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/changement-fin-exercice.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite-structures-entreprise.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite-structures-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/proposition-faillite.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/proposition-faillite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/mise-sous-sequestre.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/mise-sous-sequestre.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/centre-arrivage-regional-insolvabilite-cari.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/centre-arrivage-regional-insolvabilite-cari.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/retraite-deces.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/inscrit-ontario.html",
@@ -430,5 +562,33 @@
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc278.html",
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/formulaires-publications/formulaires/rc278.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/suspendre-reprendre-cesser-exploitation.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/suspendre-reprendre-cesser-exploitation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/lettre-accord.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/lettre-accord.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence/choix-titre-engagement-non-concurrence.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence/choix-titre-engagement-non-concurrence.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence/traitement-engagement-non-concurrence.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/vendre-entreprise/engagement-non-concurrence/traitement-engagement-non-concurrence.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/changement-fin-exercice/impot-revenu-travailleurs-independants.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/changement-fin-exercice/impot-revenu-travailleurs-independants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/demarrer-entreprise.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/demarrer-entreprise.html"
   }
 ]
