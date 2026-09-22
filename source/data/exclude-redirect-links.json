@@ -348,6 +348,10 @@
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/e-services/digital-services-businesses/business-account/about-business-account/services-my-business-account.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/about-cra-sign-in-services.html",
+    "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/e-services/cra-login-services/about-cra-sign-in-services.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/business-audits.html",
     "destination": "/bam-cop-2026-baseline/en/revenue-agency/services/tax/businesses/topics/changes-your-business/business-audits.html"
   },
@@ -736,6 +740,10 @@
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/dossier-entreprise/a-propos-dossier-entreprise/services-mon-dossier-entreprise.html"
   },
   {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/a-propos-services-ouverture-session-arc.html",
+    "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/a-propos-services-ouverture-session-arc.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/verifications-entreprises.html",
     "destination": "/bam-cop-2026-baseline/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/verifications-entreprises.html"
   },
@@ -774,5 +782,9 @@
   {
     "origin": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/services/apeca-aide-demarrer-une-entreprise.html",
     "destination": "/bam-cop-2026-baseline/fr/promotion-economique-canada-atlantique/services/apeca-aide-demarrer-une-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes2.html",
+    "destination": "/bam-cop-2026-baseline/en/services/taxes2.html"
   }
 ]
